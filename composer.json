@@ -1,0 +1,19 @@
+{
+    "name": "maruzen-p/tempconv",
+    "description": "A dead simple temperature converter. Converts C to F and vice versa.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MaruzenP\\Tempconv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hideki Morihara",
+            "email": "morihara@ayanas.co"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
